@@ -24,3 +24,7 @@ open terminal and run
   docker-compose down
 
   ```
+
+
+
+For more deatils on cluster configuration refer : [neo4j clustering!](https://neo4j.com/docs/operations-manual/3.4/clustering/setup-new-cluster/)
