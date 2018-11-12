@@ -27,4 +27,7 @@ open terminal and run
 
 
 
-For more deatils on cluster configuration refer : [neo4j clustering!](https://neo4j.com/docs/operations-manual/3.4/clustering/setup-new-cluster/)
+For more deatils on cluster configuration refer : 
+
+[neo4j clustering-1!](https://neo4j.com/docs/operations-manual/3.4/clustering/setup-new-cluster/)
+[neo4j clustering-2!](https://graphaware.com/neo4j/2018/01/03/casual-cluster-quickstart.html)
